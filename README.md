@@ -28,6 +28,6 @@ Architecture: Developed using a Modular Design pattern to keep game logic, AI de
 💡 What I Learned:
 Building this project allowed me to dive deep into Recursive Algorithms and State Management. Optimizing the Minimax bot to handle game states efficiently was a great challenge, and it really reinforced the importance of separating logic from the presentation layer.
 
-Check it out on GitHub! (Insert your link here) 🔗
+Check it out on GitHub! (https://github.com/harsoradheer19-hub/Tic_Tac_Toe.git) 🔗
 
 #Python #Coding #AI #SoftwareDevelopment #Minimax #GUIPython #Programming #TechProjects
